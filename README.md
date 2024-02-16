@@ -2,4 +2,4 @@
 
 光的作用
 
-[GO](https://virtools.github.io/light/)
+[GO](https://startail007.github.io/light/)
